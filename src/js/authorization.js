@@ -58,7 +58,7 @@ const instance = basicLightbox.create(
       </div>
       <button type="button" id="close-modal-btn">
         <svg width="25" height="25">
-          <use href="/Filmoteka/sprite.ba1893dc.svg#close-btn"></use>
+          <use href="/Filmoteka-Project/sprite.ba1893dc.svg#close-btn"></use>
         </svg>
       </button>
         <p class="auth-container-text" data-key="description">To log in, enter your email address and password</p>
@@ -71,21 +71,21 @@ const instance = basicLightbox.create(
             <li class="social-items">
               <a id="login-google" class="social-login-btn">
                 <svg width="25" height="25">
-                  <use href="/Filmoteka-project/sprite.ba1893dc.svg#icon-google"></use>
+                  <use href="/Filmoteka-Project/sprite.ba1893dc.svg#icon-google"></use>
                 </svg>
               </a>
             </li>
             <li class="social-items">
               <a id="login-fb" class="social-login-btn fb-btn">
                 <svg width="25" height="25">
-                  <use href="/Filmoteka-project/sprite.ba1893dc.svg#facebook"></use>
+                  <use href="/Filmoteka-Project/sprite.ba1893dc.svg#facebook"></use>
                 </svg>
               </a>
             </li>
             <li class="social-items">
               <a id="login-github" class="social-login-btn git-btn">
                 <svg width="25" height="25">
-                  <use href="/Filmoteka-project/sprite.ba1893dc.svg#icon-github"</use>
+                  <use href="/Filmoteka-Project/sprite.ba1893dc.svg#icon-github"</use>
                 </svg>
               </a>
             </li>            
@@ -111,7 +111,7 @@ const instance2 = basicLightbox.create(
     </div>
       <button type="button" id="close-modal-btn">
         <svg width="25" height="25">
-          <use href="/Filmoteka/sprite.ba1893dc.svg#close-btn"></use>
+          <use href="/Filmoteka-Project/sprite.ba1893dc.svg#close-btn"></use>
         </svg>
       </button>
         <input type="email" placeholder="E-mail" class="email-input sign-up" id="sign-email" data-key="email">
