@@ -109,6 +109,8 @@
   background-color: transparent;
   color: #ff6b01;
   border: 2px solid #ff6b01;
+      cursor: pointer;
+
   &:hover {
     color: white;
     border: 2px solid white;
@@ -311,6 +313,8 @@ td {
   font-weight: bold;
   letter-spacing: 2px;
   color: white;
+      cursor: pointer;
+
   transition: 0.15s ease-in-out;
 
   &:hover {
