@@ -45,6 +45,8 @@ button[data-controls='next'] {
   z-index: 10;
   color: #ff6b08;
   transition: all 250ms linear;
+      cursor: pointer;
+
 }
 
 button[data-controls='prev'] {
@@ -59,6 +61,8 @@ button[data-controls='prev'] {
   z-index: 10;
   color: #ff6b08;
   transition: all 250ms linear;
+      cursor: pointer;
+
 }
 
 button[data-controls='next']:hover,
@@ -70,6 +74,8 @@ button[data-controls='prev']:hover {
 .tns-item {
   transform: scale(0.95);
   transition: all 250ms linear;
+      cursor: pointer;
+
 }
 
 .tns-item:hover {
